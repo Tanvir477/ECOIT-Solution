@@ -11,6 +11,51 @@
     justify-content: space-between;
     
 }
+.head-section{
+    height: 600px;
+}
+.head-section li a,.nav-btn{
+    font-weight: 600;
+    color: #C08DFF;
+    
+}
+.nav-btn-search{
+    border: 1px #C08DFF solid;
+    border-radius: 50px;
+}
+
+
+.hero-text{
+    padding-top: 40px;
+}
+.hero-text-h1{
+    padding-left: 30px;
+    font-weight: 600;
+    font-size: 50px;
+}
+.hero-text-p h1{
+    padding-top: 10px;
+}
+.hero-text-p p{
+    padding-left: 35px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.hero-btn{
+    border-radius: 63px;
+    padding: 10px;
+    width: 169px;
+    background: #8828FF;
+    font-weight: 500;
+}
+.hero-text-btn{
+    margin-left: 35px;
+}
+
+.hero-img {
+    border-radius: 20px;
+    padding: 10px;
+}
 .main-div{
     background: #262626;
     display: flex;
@@ -41,17 +86,33 @@
     z-index: 1;
 }
 .hero-section img{
-    z-index: 1;
+    z-index: 0;
     position: absolute;
     
 }
-.navBar li a{
-    background-color: red;
-    width: 50px;
-    height: 23px;
+
+.great-perks-row{
+    padding: 50px;
+    padding-top: 60px;
+    padding-bottom: 100px;
+    
 }
-.head-section{
-    height: 600px;
+.great-perks-row h1{
+    font-weight: 600;
+}
+.great-perks-row h4{
+    font-weight: 600;
 }
 
+/* WHAT JOB PROFILES */
 
+.job-pro h2{
+    font-weight: 600;
+}
+.job-pro p{
+    padding: 0 250px 0 250px;
+}
+.job-display{
+    padding: 30px;
+
+}
