@@ -50,6 +50,7 @@
 }
 .hero-text-btn{
     margin-left: 35px;
+    border: none;
 }
 
 .hero-img {
@@ -113,6 +114,42 @@
     padding: 0 250px 0 250px;
 }
 .job-display{
-    padding: 30px;
+    padding: 20px;
 
+}
+.common-box{
+    /* border: 1px red solid; */
+    margin: 10px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 10px #888888;
+    padding: 20px 0 10px 0;
+}
+
+/* join our team */
+.join-team{
+    
+    padding: 0 120px 0 120px ;
+}
+.join-team-pad{
+    padding: 40px 30px 40px 30px;
+    color: #fff;
+}
+.join-team h1{
+    font-weight: 600;
+}
+.join-team p{
+    padding-right: 30%;
+}
+.join-team-btn{
+    border: none;
+    color: #fff;
+    margin-top: 20px;
+}
+.join-team-btn-p{
+    margin-top: 20px;
+    margin-left: 35px;
+    border: none;
+    background: none;
+    color: #fff;
+    
 }
