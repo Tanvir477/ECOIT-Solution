@@ -153,3 +153,14 @@
     color: #fff;
     
 }
+
+/* footer */
+.footer-inside{
+    padding-left: 120px;
+    padding-top: 90px;
+    margin-top: 70px;
+}
+.footer-row{
+    color: red;
+    
+}
